@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#CITY ROAD DATA JSON 
+preprocess/street_centerlines.geojson
+
 # Distribution / packaging
 .Python
 build/
